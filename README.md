@@ -16,7 +16,9 @@ OBJECTIVES
 
 
 TECHNOLOGY STACK
+
 1.Python
+
 2.Pandas                                  
 3.Numpy
 4.PyTorch
