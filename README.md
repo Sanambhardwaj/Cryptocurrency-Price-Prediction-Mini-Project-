@@ -5,7 +5,7 @@ INTRODUCTION
 
  Cryptocurrency markets are highly volatile, making accurate price prediction a complex challenge. Understanding the key drivers of cryptocurrency price movements, such as market 
  sentiment, 
- regulatory changes, and technological advancements, is crucial for developing effective predictive models
+ regulatory changes, and technological advancements, is crucial for developing effective predictive models.
 
 OBJECTIVES
 1. Cryptocurrency Price Prediction
