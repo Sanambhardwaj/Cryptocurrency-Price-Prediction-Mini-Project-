@@ -2,6 +2,7 @@
 # Cryptocurrency-Price-Prediction-Mini-Project-
 
 INTRODUCTION
+
  Cryptocurrency markets are highly volatile, making accurate price prediction a complex challenge. Understanding the key drivers of cryptocurrency price movements, such as market 
  sentiment, 
  regulatory changes, and technological advancements, is crucial for developing effective predictive models
@@ -16,6 +17,9 @@ OBJECTIVES
 4.Enhance Financial Decision-Making
 
 
+
+
+
 TECHNOLOGY STACK
 
 1.Python
@@ -28,13 +32,20 @@ TECHNOLOGY STACK
 
 5.Tenserflow
 
-Understanding Cryptocurrency Market Dynamics
+
+
+
+
+UNDERSTANDING CRYPTOCURRENCY MARKET DYNAMICS
 
 1.Supply and Demand
 
 2.Macroeconomic Factors
 
 3.Regulatory Environment
+
+
+
 
 
 TECHNICAL ANALYSIS TECHNIQUES
@@ -47,7 +58,9 @@ TECHNICAL ANALYSIS TECHNIQUES
 
 
 
-Machine Learning and AI-based Approaches
+
+
+MACHINE LEAERNING AND AI-BASED APPROACHES
 
 1.Neural Networks
 
@@ -58,7 +71,10 @@ Machine Learning and AI-based Approaches
 4.Hybrid Approaches
 
 
-Sentiment Analysis and Social Media Trends
+
+
+
+SENTIMENT ANALYSIS AND SOCIAL MEDIA TRENDS
 
 1.Twitter Sentiment
 
@@ -69,7 +85,10 @@ Sentiment Analysis and Social Media Trends
 4.Influencer Impact
 
 
-Conclusion and Future Outlook
+
+
+
+CONCLUSION AND FUTURE OUTLOOK
 
 1.Evolving Landscape
 
